@@ -1,0 +1,45 @@
+body	{
+	background: url("C:/Users/dbov9/Desktop/Aviakubo.github.io/unit_3/images/hero_image.jpg");
+	background-size: cover;
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 45px;
+	font-weight: bold;
+}
+
+p	{
+	color: white;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 35px;
+}
+#slogan	{
+	font-size: 40px;
+	font-style: italic;
+}
+h1	{
+	font-weight: bolder;
+	font-size: 90px;
+}
+#list	{
+	font-size: 30px;
+	padding-top: 150px;
+	text-align: inline;
+}
+ul	{
+	font-size: 30px;
+	display: inline;
+}
+#desc	{
+	padding-left: 400px;
+	padding-right: 400px;
+}
+hr{
+	width: 1250px;
+}
+footer	{
+	padding-top: 375px;
+	font-size: 30px;
+	font-style: italic;
+}
