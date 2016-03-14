@@ -1,0 +1,41 @@
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt);
+
+body	{
+	font-size: 15px;
+	font-family: 'Rock Salt', cursive;
+	background-size: cover;
+	color: white;
+	padding: 5px 20px;
+}
+
+h1	{
+	font-size:3.25em;
+	color: white;
+}
+
+ul	{
+	list-style-type: none;
+	margin: 0;
+	padding:0;
+	overflow: hidden;
+	position: fixed;
+	top: 0;
+}
+
+li{
+	float:left;
+}
+
+li, a	{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 3.5px 20px;
+	text-decoration: none;
+	border-radius: 25px;
+}
+
+li a:hover	{
+	background-color: #333;
+}
+
